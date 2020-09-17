@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.exe
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.deps.json
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.runtimeconfig.json
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.dll
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\bin\Debug\netcoreapp3.1\Student Aspirant Abstract.pdb
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.dll
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.pdb
+C:\Users\Admin\source\repos\Student Aspirant Abstract\Student Aspirant Abstract\obj\Debug\netcoreapp3.1\Student Aspirant Abstract.genruntimeconfig.cache
